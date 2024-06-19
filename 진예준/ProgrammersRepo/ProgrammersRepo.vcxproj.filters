@@ -39,6 +39,9 @@
     <ClCompile Include="순위검색.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="제출용\순위검색.cpp">
+      <Filter>제출용</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="main.h">

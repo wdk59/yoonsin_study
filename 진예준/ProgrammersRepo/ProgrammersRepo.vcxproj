@@ -133,6 +133,7 @@
     <ClCompile Include="순위검색.cpp" />
     <ClCompile Include="이모티콘할인행사.cpp" />
     <ClCompile Include="제출용\메뉴리뉴얼.cpp" />
+    <ClCompile Include="제출용\순위검색.cpp" />
     <ClCompile Include="택배배달과수거하기.cpp" />
   </ItemGroup>
   <ItemGroup>
